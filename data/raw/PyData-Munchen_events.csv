@@ -1,0 +1,8 @@
+yes_rsvp_count,name,local_date,Group
+40,PyData Munich March Meetup,2017-03-28,PyData Munich
+38,"""Tidy"" Python DataFrames with Pandas, Seaborn, and Statsmodels",2017-10-19,PyData Munich
+59,Tutorial: Scraping Data from the Web with Python using Scrapy and BeautifulSoup,2017-11-08,PyData Munich
+70,"Tutorial: ""Machine Learning with Python: Clustering with Scikit-Learn""",2017-11-29,PyData Munich
+34,"Tutorial: ""High Performance Data Analysis with Big HDF5 Files in Python""",2017-12-18,PyData Munich
+46,Intro. to the Julia Language: The Near Future of Scientific Computing,2018-01-16,PyData Munich
+70,Probability with Bayesian Networks in Python: pgmpy and NetworkX,2018-01-30,PyData Munich

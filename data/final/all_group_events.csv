@@ -1,0 +1,73 @@
+Group,local_date,name,yes_rsvp_count
+PyData Munich,2017-03-28,PyData Munich March Meetup,40
+PyData Munich,2017-10-19,"""Tidy"" Python DataFrames with Pandas, Seaborn, and Statsmodels",38
+PyData Munich,2017-11-08,Tutorial: Scraping Data from the Web with Python using Scrapy and BeautifulSoup,59
+PyData Munich,2017-11-29,"Tutorial: ""Machine Learning with Python: Clustering with Scikit-Learn""",70
+PyData Munich,2017-12-18,"Tutorial: ""High Performance Data Analysis with Big HDF5 Files in Python""",34
+PyData Munich,2018-01-16,Intro. to the Julia Language: The Near Future of Scientific Computing,46
+PyData Munich,2018-01-30,Probability with Bayesian Networks in Python: pgmpy and NetworkX,70
+Super Python Talks for Life Sciences,2017-02-22,"Talk: ""Statistical Analysis and Modeling with Scipy-Stats""",12
+Super Python Talks for Life Sciences,2017-03-08,"Talk: ""Databases and SQL with Pandas""",17
+Super Python Talks for Life Sciences,2017-03-22,"Workshop: ""Version Control with Git""",13
+Super Python Talks for Life Sciences,2017-04-05,"Talk: ""Image Analysis with Scikit-Image""",16
+Super Python Talks for Life Sciences,2017-04-19,"Talk: ""Intermediate-Level Python Programming""",13
+Super Python Talks for Life Sciences,2017-05-03,"Talk: ""Accelerate Your Code with Cython""",12
+Super Python Talks for Life Sciences,2017-05-17,"Talk: ""Data Visualization Principles and Their Implementation in Python""",15
+Super Python Talks for Life Sciences,2017-05-31,"Talk: ""Parallelize with Multiprocessing and Cluster Computing""",12
+Super Python Talks for Life Sciences,2017-06-14,"Talk: ""Python: Everything is an Object""",13
+Super Python Talks for Life Sciences,2017-07-05,"Talk: ""Batch Processing and Command-Line Interfaces""",11
+Super Python Talks for Life Sciences,2017-07-19,"Talk: ""Vectorize your Code: Advanced Numpy""",16
+Super Python Talks for Life Sciences,2017-10-19,"""Tidy"" Python DataFrames with Pandas, Seaborn, and Statsmodels",12
+Super Python Talks for Life Sciences,2017-11-08,Tutorial: Scraping Data from the Web with Python using Scrapy and BeautifulSoup,12
+Super Python Talks for Life Sciences,2017-11-29,"Tutorial: ""Machine Learning with Python: Clustering with Scikit-Learn""",59
+Super Python Talks for Life Sciences,2017-12-18,"Tutorial: ""High Performance Data Analysis with Big HDF5 Files in Python""",19
+Super Python Talks for Life Sciences,2018-01-16,Intro. to the Julia Language: The Near Future of Scientific Computing,18
+Super Python Talks for Life Sciences,2018-01-30,Probability with Bayesian Networks in Python: pgmpy and NetworkX,34
+PyData Munich,2017-03-28,PyData Munich March Meetup,40
+PyData Munich,2017-10-19,"""Tidy"" Python DataFrames with Pandas, Seaborn, and Statsmodels",38
+PyData Munich,2017-11-08,Tutorial: Scraping Data from the Web with Python using Scrapy and BeautifulSoup,59
+PyData Munich,2017-11-29,"Tutorial: ""Machine Learning with Python: Clustering with Scikit-Learn""",70
+PyData Munich,2017-12-18,"Tutorial: ""High Performance Data Analysis with Big HDF5 Files in Python""",34
+PyData Munich,2018-01-16,Intro. to the Julia Language: The Near Future of Scientific Computing,46
+PyData Munich,2018-01-30,Probability with Bayesian Networks in Python: pgmpy and NetworkX,70
+Super Python Talks for Life Sciences,2017-02-22,"Talk: ""Statistical Analysis and Modeling with Scipy-Stats""",12
+Super Python Talks for Life Sciences,2017-03-08,"Talk: ""Databases and SQL with Pandas""",17
+Super Python Talks for Life Sciences,2017-03-22,"Workshop: ""Version Control with Git""",13
+Super Python Talks for Life Sciences,2017-04-05,"Talk: ""Image Analysis with Scikit-Image""",16
+Super Python Talks for Life Sciences,2017-04-19,"Talk: ""Intermediate-Level Python Programming""",13
+Super Python Talks for Life Sciences,2017-05-03,"Talk: ""Accelerate Your Code with Cython""",12
+Super Python Talks for Life Sciences,2017-05-17,"Talk: ""Data Visualization Principles and Their Implementation in Python""",15
+Super Python Talks for Life Sciences,2017-05-31,"Talk: ""Parallelize with Multiprocessing and Cluster Computing""",12
+Super Python Talks for Life Sciences,2017-06-14,"Talk: ""Python: Everything is an Object""",13
+Super Python Talks for Life Sciences,2017-07-05,"Talk: ""Batch Processing and Command-Line Interfaces""",11
+Super Python Talks for Life Sciences,2017-07-19,"Talk: ""Vectorize your Code: Advanced Numpy""",16
+Super Python Talks for Life Sciences,2017-10-19,"""Tidy"" Python DataFrames with Pandas, Seaborn, and Statsmodels",12
+Super Python Talks for Life Sciences,2017-11-08,Tutorial: Scraping Data from the Web with Python using Scrapy and BeautifulSoup,12
+Super Python Talks for Life Sciences,2017-11-29,"Tutorial: ""Machine Learning with Python: Clustering with Scikit-Learn""",59
+Super Python Talks for Life Sciences,2017-12-18,"Tutorial: ""High Performance Data Analysis with Big HDF5 Files in Python""",19
+Super Python Talks for Life Sciences,2018-01-16,Intro. to the Julia Language: The Near Future of Scientific Computing,18
+Super Python Talks for Life Sciences,2018-01-30,Probability with Bayesian Networks in Python: pgmpy and NetworkX,34
+PyData Munich,2017-03-28,PyData Munich March Meetup,40
+PyData Munich,2017-10-19,"""Tidy"" Python DataFrames with Pandas, Seaborn, and Statsmodels",38
+PyData Munich,2017-11-08,Tutorial: Scraping Data from the Web with Python using Scrapy and BeautifulSoup,59
+PyData Munich,2017-11-29,"Tutorial: ""Machine Learning with Python: Clustering with Scikit-Learn""",70
+PyData Munich,2017-12-18,"Tutorial: ""High Performance Data Analysis with Big HDF5 Files in Python""",34
+PyData Munich,2018-01-16,Intro. to the Julia Language: The Near Future of Scientific Computing,46
+PyData Munich,2018-01-30,Probability with Bayesian Networks in Python: pgmpy and NetworkX,70
+Super Python Talks for Life Sciences,2017-02-22,"Talk: ""Statistical Analysis and Modeling with Scipy-Stats""",12
+Super Python Talks for Life Sciences,2017-03-08,"Talk: ""Databases and SQL with Pandas""",17
+Super Python Talks for Life Sciences,2017-03-22,"Workshop: ""Version Control with Git""",13
+Super Python Talks for Life Sciences,2017-04-05,"Talk: ""Image Analysis with Scikit-Image""",16
+Super Python Talks for Life Sciences,2017-04-19,"Talk: ""Intermediate-Level Python Programming""",13
+Super Python Talks for Life Sciences,2017-05-03,"Talk: ""Accelerate Your Code with Cython""",12
+Super Python Talks for Life Sciences,2017-05-17,"Talk: ""Data Visualization Principles and Their Implementation in Python""",15
+Super Python Talks for Life Sciences,2017-05-31,"Talk: ""Parallelize with Multiprocessing and Cluster Computing""",12
+Super Python Talks for Life Sciences,2017-06-14,"Talk: ""Python: Everything is an Object""",13
+Super Python Talks for Life Sciences,2017-07-05,"Talk: ""Batch Processing and Command-Line Interfaces""",11
+Super Python Talks for Life Sciences,2017-07-19,"Talk: ""Vectorize your Code: Advanced Numpy""",16
+Super Python Talks for Life Sciences,2017-10-19,"""Tidy"" Python DataFrames with Pandas, Seaborn, and Statsmodels",12
+Super Python Talks for Life Sciences,2017-11-08,Tutorial: Scraping Data from the Web with Python using Scrapy and BeautifulSoup,12
+Super Python Talks for Life Sciences,2017-11-29,"Tutorial: ""Machine Learning with Python: Clustering with Scikit-Learn""",59
+Super Python Talks for Life Sciences,2017-12-18,"Tutorial: ""High Performance Data Analysis with Big HDF5 Files in Python""",19
+Super Python Talks for Life Sciences,2018-01-16,Intro. to the Julia Language: The Near Future of Scientific Computing,18
+Super Python Talks for Life Sciences,2018-01-30,Probability with Bayesian Networks in Python: pgmpy and NetworkX,34
